@@ -1,6 +1,6 @@
 ## 👋 Hi there! Welcome to my GitHub Portfolio
 
-I’m **Jessica**, a passionate data enthusiast with a background in biology, specialized in the pharmaceutical and environmental sectors.
+I’m **Jessica Herrera Perdomo**, a passionate data enthusiast with a background in biology, specialized in the pharmaceutical and environmental sectors.
 
 Currently transitioning into the world of data analytics, where I combine my scientific mindset with technical tools to bring clarity to complex data.
 
@@ -52,4 +52,5 @@ I bring a unique blend of scientific rigor and practical structure, with experie
 
 🤝 Let’s connect and build something meaningful together 🚀
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmhp)
+- 💼 [LinkedIn – Jessica María Herrera Perdomo] [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmhp)
+- 📬 Contact: jessicam.hrra@gmail.com
