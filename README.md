@@ -52,5 +52,5 @@ I bring a unique blend of scientific rigor and practical structure, with experie
 
 🤝 Let’s connect and build something meaningful together 🚀
 
-- 💼 [LinkedIn – Jessica María Herrera Perdomo] [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmhp)
+- 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmhp) - Jessica María Herrera Perdomo
 - 📬 Contact: jessicam.hrra@gmail.com
