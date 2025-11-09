@@ -2,7 +2,7 @@
 
 I’m **Jessica Herrera Perdomo**, a passionate data enthusiast with a background in biology, specialized in the pharmaceutical and environmental sectors.
 
-Currently transitioning into the world of data analytics, where I combine my scientific mindset with technical tools to bring clarity to complex data.
+My journey from science to data analytics has been driven by the same curiosity: understanding patterns, solving problems, and finding clarity in complexity.
 
 I specialise in uncovering insights from messy datasets, automating workflows, and creating accessible resources to empower others in their data journey.
 
