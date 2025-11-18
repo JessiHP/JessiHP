@@ -1,3 +1,6 @@
+
+![Banner github](https://github.com/user-attachments/assets/83744197-3c41-4547-8355-78da9243199a)
+
 ## 👋 Hi there! Welcome to my GitHub Portfolio
 
 I’m **Jessica Herrera Perdomo**, a passionate data enthusiast with a background in biology, specialized in the pharmaceutical and environmental sectors.
@@ -12,8 +15,8 @@ I specialise in uncovering insights from messy datasets, automating workflows, a
 
 🔭 I’m currently working on data analytics projects, improving my skills through hands-on case studies and personal challenges.  
 🌱 I’m deepening my knowledge in AI, business understanding, and advanced data tools.  
-👯 I’m open to collaborate on data analytics and science projects — especially if they involve clarity, structure, or social/environmental value.  
-⚡ Fun fact: I feel as excited exploring a messy dataset as I do spotting a rare insect on a nature walk — both are full of hidden patterns.
+👯 I’m open to collaborate on data analytics and science projects - especially if they involve clarity, structure, or social/environmental value.  
+⚡ Fun fact: I feel as excited exploring a messy dataset as I do spotting a rare insect on a nature walk - both are full of hidden patterns.
 
 
 
@@ -48,7 +51,7 @@ As a biologist turned data analyst, I’m deeply curious about solving real-worl
 
 I bring a unique blend of scientific rigor and practical structure, with experience creating dashboards, automating workflows, and building templates that others can use and trust.
 
-🧭 My mission is to help people and teams work better with their data — bringing clarity, reducing chaos, and empowering decision-making.
+🧭 My mission is to help people and teams work better with their data - bringing clarity, reducing chaos, and empowering decision-making.
 
 🤝 Let’s connect and build something meaningful together 🚀
 
